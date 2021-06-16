@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+
+    <string name="name">Name</string>
+    <string name="tel">Telephone</string>
+    <string name="email">Email</string>
+    <string name="add_contact">Add Contact</string>
+
+    <string name="sample_name">Name</string>
+    <string name="sample_email">gmail@gmail.com</string>
+    <string name="sample_tel">0123456789</string>
+    <string name="empty_not_saved">Contact empty, not saved</string>
+
+    <string name="edit_contact">Edit Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="update_contact">Update</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="user_image">User\'s picture</string>
+
+
+</resources>
